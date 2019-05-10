@@ -1,4 +1,5 @@
-# blog
+# Blog avec JHipster4, Angular et SpringBoot
+
 
 This application was generated using JHipster 5.8.2, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.8.2](https://www.jhipster.tech/documentation-archive/v5.8.2).
 
@@ -176,4 +177,3 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [protractor]: https://angular.github.io/protractor/
 [leaflet]: http://leafletjs.com/
 [definitelytyped]: http://definitelytyped.org/
-# Blog_JHipster4_Angular_Avec_SpringBoot
