@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "org.jhipster.charles.blog",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "blog",
+        "packageName": "org.jhipster.charles.blog",
+        "packageFolder": "org/jhipster/charles/blog",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "h2Disk",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Y2Y2Nzg1NzI2NDdkNTIzNzdmNTQyNTU4YjVlZDRjMmE1YzMwYzRjZTIwMTVjOGNlMjAzYTRlYThjNWUzMDc0N2JlN2E3MTljMTc1Yzc5ZjU1NzE1MzE2ZDVhOTg1YmRkYmY5MDYzNzhlZTYwZTViM2ZlNGUyNzMwNjBhZDdjNTc=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
